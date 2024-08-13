@@ -1,0 +1,12 @@
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\bin\Debug\net8.0\ProductSearchService.Domain.deps.json
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\bin\Debug\net8.0\ProductSearchService.Domain.dll
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\bin\Debug\net8.0\ProductSearchService.Domain.pdb
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\ProductSearchService.Domain.csproj.AssemblyReference.cache
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\ProductSearchService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\ProductSearchService.Domain.AssemblyInfoInputs.cache
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\ProductSearchService.Domain.AssemblyInfo.cs
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\ProductSearchService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\ProductSearchService.Domain.dll
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\refint\ProductSearchService.Domain.dll
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\ProductSearchService.Domain.pdb
+C:\Users\Hugo Furtado\Desktop\Estagio\ProductSearchService\ProductSearchService\ProductSearchService.Domain\obj\Debug\net8.0\ref\ProductSearchService.Domain.dll

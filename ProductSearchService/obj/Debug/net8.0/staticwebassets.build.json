@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kHEXPfcQ4E3LEpOWL4KQoYZVBdoYfrIm1EpCM/Yyv7Y=",
+  "Source": "ProductSearchService.WebApi",
+  "BasePath": "_content/ProductSearchService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
